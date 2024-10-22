@@ -1,7 +1,7 @@
 # Hi, I'm Wahyu Widodo 👋
 
 ## About Me
-- 🔭 I’m currently working on DigitSense as a Fullstack Developer
+- 🔭 I’m currently working on [DigitSense](https://digit-sense.com/) as a Fullstack Developer
 - 🌱 I’m learning [Tech Stack]
 - 💬 Ask me about [Topics]
 
@@ -10,5 +10,4 @@
 - Frameworks: React, Next.js, etc.
 
 ## Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
+- [LinkedIn](https://www.linkedin.com/in/wahyu-wiro/)
